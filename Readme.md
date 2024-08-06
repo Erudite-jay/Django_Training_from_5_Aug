@@ -17,3 +17,16 @@ views
 Templates
 Jinja 
 
+Day 2 Session 1
+
+Models ,
+migrations,
+superuser,
+admin,
+register,
+ORM,
+Django Shell,
+
+Day 2 Session 2 
+
+API 
