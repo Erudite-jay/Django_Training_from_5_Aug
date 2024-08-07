@@ -30,3 +30,10 @@ Django Shell,
 Day 2 Session 2 
 
 API 
+Types of API
+JSON
+Serializer
+Req,Res Path
+
+Day 3 Session 1
+
