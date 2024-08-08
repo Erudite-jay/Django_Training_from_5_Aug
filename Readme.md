@@ -36,4 +36,20 @@ Serializer
 Req,Res Path
 
 Day 3 Session 1
+post
+single user data 
+put single user data
+patch 
+delete
+postman
 
+Day 3 Session 2
+forms
+traditional form 
+django form
+multipart/form-data in template
+csrf token and its flow
+
+Day 4 Session 1 
+Sessions
+Web storage
