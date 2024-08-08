@@ -22,4 +22,5 @@ urlpatterns = [
     path('login/',include('login_system_app.urls')),
     path('forms/',include('forms_app.urls')),
     path('session/',include('session_app.urls')),
+    path('jwt/',include('JWT_app.urls')),
 ]
