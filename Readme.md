@@ -55,5 +55,5 @@ Sessions
 Web storage
 implementation 
 
-Day 4 Sessin 
+Day 4 Session 2
 AuthZ and AuthN
