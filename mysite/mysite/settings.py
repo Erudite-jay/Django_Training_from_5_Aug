@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'signals_app',
     'JWT_app',
     'session_app',
     'forms_app',
